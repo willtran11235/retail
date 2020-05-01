@@ -5,3 +5,4 @@ ML Solutions for Retail
 - Pricing Optimization
 - Market Segmentation/ Targeting
 - Recommendation Engine
+- Customer Churn
